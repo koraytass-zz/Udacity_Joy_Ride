@@ -1,4 +1,4 @@
-D# Udacity_Joy_Ride
+
 Udacity Joy Ride Solution
 
-My Udacity Project Solutions
+My Udacity Project Solutions for Parallel Parking, Drag Race and Circular Track projects
